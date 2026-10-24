@@ -1,6 +1,6 @@
-[![Github All Releases](https://img.shields.io/github/downloads/gregpola/fvtt-trazzm-homebrew-5e/total.svg)]() 
-# trazzm-rotd
-    A collection of homebrew content for the AAW Rise of the Drow campaign in FoundryVTT
+[![Github All Releases](https://img.shields.io/github/downloads/gregpola/trazzm-foundry-template/total.svg)]() 
+# trazzm-foundry-template
+    A template repository for FoundryVTT modules
 
 ### Compatibility:
   - Tested with FVTT v14 and the DND5E system 5.x
@@ -10,5 +10,5 @@
 To install a module, follow these instructions:
 
   1. Start FVTT and browse to the Game Modules tab in the Configuration and Setup menu
-  2. Select the 'Install Module' button and enter the following URL: https://github.com/gregpola/trazzm-rotd/releases/latest/download/module.json
+  2. Select the 'Install Module' button and enter the following URL: https://github.com/gregpola/<...>/releases/latest/download/module.json
   3. Click Install and wait for installation to complete
